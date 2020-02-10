@@ -2,7 +2,7 @@ package dao;
 
 public class Shen {
 	public static void main(String[] args) {
-		System.out.println("ÉòÓÂµÄÌá½»");
+		System.out.println("æ²ˆå‹‡çš„æäº¤");
 	}
 
 }
